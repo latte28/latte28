@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=latte28's%20GitHub&fontSize=42&fontColor=00ffc3)
-
-
+<img src="https://images.unsplash.com/photo-1558788353-f76d92427f16?ixlib=rb-4.0.3&auto=format&fit=crop&w=1280&q=80" width="100%" alt="dog header"/>
 
 <p align="center">
   💻 끊임없이 배우고 성장하는 개발자 <strong>박재원</strong>입니다 ☕ <br/>
