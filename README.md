@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**latte28/latte28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=FBC2EB&color2=A6C1EE&height=200&section=header&text=Hi%20I'm%20latte28!&fontSize=45&fontColor=000000)
+
 
 Here are some ideas to get you started:
 
