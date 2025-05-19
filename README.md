@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=fc466b,3f5efb&height=200&section=header&text=Welcome%20to%20latte28&fontSize=38&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&text=latte28's%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
 
 <p align="center">
   💻 끊임없이 배우고 성장하는 개발자 <strong>박재원</strong>입니다 ☕ <br/>
