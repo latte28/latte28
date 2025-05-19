@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FBC2EB&color2=A6C1EE&height=200&section=header&text=Hi%20I'm%20latte28!&fontSize=45&fontColor=000000)
 
+<p align="center">
+  💻 끊임없이 배우고 성장하는 개발자 <strong>박재원</strong>입니다 ☕ <br/>
+  협업과 소통을 중요하게 생각하며, 사용자를 위한 개발을 지향합니다 😊
+</p>
 
 Here are some ideas to get you started:
 
