@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&text=latte28's%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=latte28's%20GitHub&fontSize=42&fontColor=00ffc3)
+
 
 
 <p align="center">
