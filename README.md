@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2020/04/27/14/52/dog-5104167_1280.png" width="600" />
-</p>
-
 
 <p align="center">
   💻 끊임없이 배우고 성장하는 개발자 <strong>박재원</strong>입니다 ☕ <br/>
