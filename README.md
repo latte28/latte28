@@ -1,4 +1,6 @@
-<img src="https://images.unsplash.com/photo-1558788353-f76d92427f16?ixlib=rb-4.0.3&auto=format&fit=crop&w=1280&q=80" width="100%" alt="dog header"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=🐶+Welcome+to+latte28's+GitHub!;Frontend+%7C+Backend+%7C+Dog+Lover+Developer!" />
+</p>
 
 <p align="center">
   💻 끊임없이 배우고 성장하는 개발자 <strong>박재원</strong>입니다 ☕ <br/>
