@@ -1,4 +1,4 @@
-<h1 align="center">👋 안녕하세요, 박새별입니다</h1>
+<h1 align="center">👋 안녕하세요, 박재원입니다.</h1>
 <p align="center"><i>계획적인 개발과 구조적인 사고를 지향합니다.</i></p>
 
 <p align="center">
@@ -24,30 +24,37 @@
 ```txt
 💻 Frontend  : React, Vue3, JavaScript, HTML, JSP, CSS, MUI  
 🛠 Backend    : Node.js, Express, Java(Spring Boot), Python, MySQL, Oracle  
-🧰 Tools      : Git, GitHub, VSCode, Postman, Figma  
-🔐 Etc        : Recoil, JWT, REST API, Swiper, Kakao Maps, Quill, LangChain
+🧰 Tools      : Git, GitHub, VSCode, Figma  
+🔐 Etc        : Recoil, JWT, REST API, Swiper, Kakao Maps, Quill,
 ```
 
 ## 📌 Projects
 
-### [무복노트](https://github.com/SaeByeol5285/moboknote)(개인 프로젝트)
-> 감성을 기록하는 라이더들의 SNS 플랫폼
-> React + Express, MySQL
+### [멍냥꽁냥][(https://github.com/suikari/Myky)](팀 프로젝트, 5인)
+> 반려동물 용품 쇼핑과 유기동물 기부를 하나로 연결하는 사회적 가치 중심 쇼핑몰
+> Vue3 + Spring Boot , Oracle
 
-- 감성 테마 UI 기획 및 전체 화면 구성
-- Kakao Map 기반 경로 작성 기능 구현
-- 프론트/백엔드 포함 전체 기능 설계 및 구현
+- 쇼핑몰: 다양한 반려동물 용품 구매 가능
+- 전문 수의사 상담: 포인트로 건강 상담 가능
+- 카카오맵 연동: 병원 및 편의시설 위치 확인
+- 멤버십: 정기 구독형 혜택 제공
+- 커뮤니티: 보호자 간 소통, 공지사항 및 FAQ
+- 기부 시스템: 수익 일부를 보호소에 기부 (투명 공개)
 
 ---
 
-### [과실제로](https://github.com/SaeByeol5285/project-gwasilzero.git)(팀 프로젝트, 5인)
-> 교통사고 과실 비율 상담 서비스  
-> Vue3 + Spring Boot , Oracle
+### [SNS](https://github.com/latte28/react_project)(개인 프로젝트)
+> 
+> React + Express, MySQL
 
-- 메인, 통합자료실, 회사 소개 등 주요 UI 페이지 구현  
-- 공통 게시판 기능(에디터, 첨부파일, 페이징 등) 설계 및 개발  
-- 변호사 후기 분석 기능(LangChain + Python + Oracle) 연동  
-- 전체 UI 스타일 가이드 작성
+- 
+- 
+- 프론트/백엔드 포함 전체 기능 설계 및 구현
+
+---
+### []()(팀 프로젝트, 4인)
+
+
 
 ---
 
@@ -65,5 +72,5 @@
 
 ## 📫 Contact
 
-- Email : parksebyul@gmail.com 
-- Blog : [https://velog.io/@saebyeol5285](https://velog.io/@saebyeol5285)
+- Email : qkrwodnjs7953@naver.com
+- Notion : 
