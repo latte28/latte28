@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:644f4f,100:f8f7f7&height=180&text=Hello%20World!%20I'm%20Jaewon&animation=twinkling&fontColor=4b4848&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C4033,100:F8F4E3&height=200&text=Hello%20World!%20I'm%20Jaewon&animation=twinkling&fontColor=3B3B3B&fontSize=40" />
 
-<div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">안녕하세요! 박재원입니다 🧑‍💻</h2>  
+<div style="text-align: left; margin-top: 20px;"> 
+  <h2 style="border-bottom: 2px solid #ccc; color: #3b3b3b;">👋 안녕하세요! 박재원입니다</h2>  
 
-  <div style="font-weight: 700; font-size: 15px; color: #282d33; line-height: 1.6;">
-    <li> "직접 기능을 만들고, 화면에 결과를 보여주는 그 순간에 빠져들었습니다."</li>
-    <li> 다른 전공에서 진로를 전환하며 <b>실행력 있는 풀스택 개발자</b>로 성장 중입니다.</li>
-    <li> 기획부터 배포까지, 팀과 함께 완성해나가는 개발의 가치를 추구합니다.</li>
-    <li> 새로운 기술을 배우는 것을 즐기며, 항상 성장하려는 개발자를 지향합니다.</li>
+  <div style="font-weight: 600; font-size: 16px; color: #4f4f4f; line-height: 1.8;">
+    <li> <i>"직접 기능을 만들고, 화면에 결과를 보여주는 그 순간에 빠져들었습니다."</i></li>
+    <li> 전공을 전환하며 <b style="color:#5C4033;">실행력 있는 풀스택 개발자</b>로 성장해왔습니다.</li>
+    <li> <b>기획 → 개발 → 배포</b>까지 경험하며, 실무에 가까운 프로젝트를 팀과 함께 완성해왔습니다.</li>
+    <li> 배우는 것을 즐기고, 매 프로젝트마다 성장하는 개발자를 지향합니다.</li>
   </div>
 </div>
 
