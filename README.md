@@ -42,6 +42,8 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 </p>
 
 ### 🧰 Tools & Etc
