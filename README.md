@@ -81,6 +81,7 @@
 
 ### 🐾 [멍냥꽁냥](팀 프로젝트, 6인)
 (https://github.com/suikari/Myky)
+
 > **반려동물 쇼핑 + 커뮤니티 + 기부 시스템**을 결합한 B2C 웹 플랫폼  
 > `Vue.js + Spring Boot + Oracle`
 
@@ -98,7 +99,8 @@
 
 ---
 
-### 🌐 [SNS Web App](https://github.com/latte28/react_project) (개인 프로젝트)
+### 🌐 [SNS Web App] (개인 프로젝트)
+(https://github.com/latte28/react_project)
 
 > 제한된 기간 내 **React 기반 SNS 기능 구현 프로젝트**  
 > `React + Node.js + Express + MySQL + WebSocket`
