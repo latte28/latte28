@@ -120,7 +120,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=latte28&show_icons=true&theme=default"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latte28&layout=compact"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=latte28"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=latte28"/> -->
 </p>
 
 ---
